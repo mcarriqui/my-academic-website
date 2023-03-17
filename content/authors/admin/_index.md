@@ -1,4 +1,6 @@
 ---
+title: Marc Carriquí Alcover
+role: Juan de la Cierva Formación Postdoctoral Fellow
 bio: My research interests include ...
 interests:
   - plants
@@ -13,9 +15,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: X
 highlight_name: true
-title: Marc Carriquí Alcover
 first_name: Alice
 email: ""
 ---
