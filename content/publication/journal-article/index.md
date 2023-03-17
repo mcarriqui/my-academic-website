@@ -1,5 +1,5 @@
 ---
-title: "Mesophyll diffusion conductance to CO<sub>2</sub>: an unappreciated central player
+title: "Mesophyll diffusion conductance to CO<sub>2</sub> : an unappreciated central player
   in photosynthesis"
 publication_types:
   - "2"
