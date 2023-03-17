@@ -1,5 +1,5 @@
 ---
-title: "Mesophyll diffusion conductance to CO2: an unappreciated central player
+title: "Mesophyll diffusion conductance to CO<sub>2</sub>: an unappreciated central player
   in photosynthesis"
 publication_types:
   - "2"
@@ -26,9 +26,9 @@ authors:
   - Tiina Tosens
   - Charles R Warren
 publication_short: ""
-abstract: "Mesophyll diffusion conductance to CO2 is a key photosynthetic trait
+abstract: "Mesophyll diffusion conductance to CO<sub>2</sub> is a key photosynthetic trait
   that has been studied intensively in the past years. The intention of the
-  present review is to update knowledge of gm, and highlight the important
+  present review is to update knowledge of g<sub>m</sub>, and highlight the important
   unknown and controversial aspects that require future work. The photosynthetic
   limitation imposed by mesophyll conductance is large, and under certain
   conditions can be the most significant photosynthetic limitation. New evidence
