@@ -26,14 +26,27 @@ authors:
   - Tiina Tosens
   - Charles R Warren
 publication_short: ""
-abstract: >-
-  Mesophyll diffusion conductance to CO2 is a key photosynthetic trait that has been studied intensively in the past years. The intention of the present review is to update knowledge of gm, and highlight the important unknown and controversial aspects that require future work. The photosynthetic limitation imposed by mesophyll conductance is large, and under certain conditions can be the most significant photosynthetic limitation. New evidence shows that anatomical traits, such as cell wall thickness and chloroplast distribution are amongst the stronger determinants of mesophyll conductance, although rapid variations in response to environmental changes might be regulated by othe factors such as aquaporin conductance.
-  Gaps in knowledge that should be research priorities for the near future include: how different is mesophyll conductance among phylogenetically distant groups and how has it evolved? Can mesophyll conductance be uncoupled from regulation of the water path? What are the main drivers of mesophyll conductance? The need for mechanistic and phenomenological models of mesophyll conductance and its incorporation in process-based photosynthesis models is also highlighted.
+abstract: "Mesophyll diffusion conductance to CO2 is a key photosynthetic trait
+  that has been studied intensively in the past years. The intention of the
+  present review is to update knowledge of gm, and highlight the important
+  unknown and controversial aspects that require future work. The photosynthetic
+  limitation imposed by mesophyll conductance is large, and under certain
+  conditions can be the most significant photosynthetic limitation. New evidence
+  shows that anatomical traits, such as cell wall thickness and chloroplast
+  distribution are amongst the stronger determinants of mesophyll conductance,
+  although rapid variations in response to environmental changes might be
+  regulated by othe factors such as aquaporin conductance. Gaps in knowledge
+  that should be research priorities for the near future include: how different
+  is mesophyll conductance among phylogenetically distant groups and how has it
+  evolved? Can mesophyll conductance be uncoupled from regulation of the water
+  path? What are the main drivers of mesophyll conductance? The need for
+  mechanistic and phenomenological models of mesophyll conductance and its
+  incorporation in process-based photosynthesis models is also highlighted."
 draft: false
 featured: false
 tags:
   - Source Themes
-slides: example
+slides: ""
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0168945212001069
 image:
   caption: ""
