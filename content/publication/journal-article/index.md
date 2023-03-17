@@ -8,7 +8,7 @@ authors:
   - Margaret M Barbour
   - Oliver Brendel
   - Hernán M Cabrera
-  - **Marc Carriquí
+  - **Marc Carriquí**
   - Antonio Díaz-Espejo
   - Cyril Douthe
   - Erwin Dreyer
