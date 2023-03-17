@@ -13,12 +13,10 @@ organizations: []
 education:
   courses: []
 superuser: true
-status:
-  icon: ☕️
-last_name: Wu
+last_name: Carriquí
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Marc
+email: "marc.carriqui@inia.csic.es"
 ---
 Marc Carriquí Alcover is a...
 {style="text-align: justify;"}
