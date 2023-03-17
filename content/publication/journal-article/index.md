@@ -53,21 +53,12 @@ tags:
   - Planthydraulics
   - Photosynthesis
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0168945212001069
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-summary: ""
-url_dataset: ""
-url_project: ""
-url_source: ""
-url_video: ""
-author_notes: []
+
 doi: https://doi.org/10.1016/j.plantsci.2012.05.009
 publication: Plant Science
-projects: []
+
 date: 2012-09-30T00:00:00.000Z
-url_slides: ""
+
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
+
 ---
