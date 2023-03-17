@@ -1,68 +1,71 @@
 ---
-title: "An example journal article"
+title: "Mesophyll diffusion conductance to CO2: an unappreciated central player
+  in photosynthesis"
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+  - Jaume Flexas
+  - Margaret M Barbour
+  - Oliver Brendel
+  - Hernán M Cabrera
+  - Marc Carriquí
+  - Antonio Díaz-Espejo
+  - Cyril Douthe
+  - Erwin Dreyer
+  - Juan P Ferrio
+  - Jorge Gago
+  - Alexander Gallé
+  - Jeroni Galmés
+  - Naomi Kodama
+  - Hipólito Medrano
+  - Ülo Niinemets
+  - José J Peguero-Pina
+  - Alicia Pou
+  - Miquel Ribas-Carbó
+  - Magdalena Tomás
+  - Tiina Tosens
+  - Charles R Warren
 publication_short: ""
+abstract: >-
+  Mesophyll diffusion conductance to CO2 is a key photosynthetic trait that has
+  been studied intensively in the past years. The intention of the present
+  review is to update knowledge of gm, and highlight the important unknown and
+  controversial aspects that require future work. The photosynthetic limitation
+  imposed by mesophyll conductance is large, and under certain conditions can be
+  the most significant photosynthetic limitation. New evidence shows that
+  anatomical traits, such as cell wall thickness and chloroplast distribution
+  are amongst the stronger determinants of mesophyll conductance, although rapid
+  variations in response to environmental changes might be regulated by other
+  factors such as aquaporin conductance.
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
+  Gaps in knowledge that should be research priorities for the near future include: how different is mesophyll conductance among phylogenetically distant groups and how has it evolved? Can mesophyll conductance be uncoupled from regulation of the water path? What are the main drivers of mesophyll conductance? The need for mechanistic and phenomenological models of mesophyll conductance and its incorporation in process-based photosynthesis models is also highlighted.
+draft: false
 featured: false
-
-# links:
-# - name: ""
-#   url: ""
+tags:
+  - Source Themes
+slides: example
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: https://doi.org/10.1016/j.plantsci.2012.05.009
+publication: Plant Science 193-194:70-84
 projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2015-09-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
