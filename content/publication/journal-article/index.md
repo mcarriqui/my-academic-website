@@ -45,7 +45,13 @@ abstract: "Mesophyll diffusion conductance to CO2 is a key photosynthetic trait
 draft: false
 featured: false
 tags:
-  - Source Themes
+  - Aquaporins
+  - Climatechange
+  - Conductance
+  - Diffusion
+  - Leafanatomy
+  - Planthydraulics
+  - Photosynthesis
 slides: ""
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0168945212001069
 image:
