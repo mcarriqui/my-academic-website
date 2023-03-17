@@ -59,10 +59,11 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: https://doi.org/10.1016/j.plantsci.2012.05.009
-publication: Plant Science 193-194:70-84
+publication: Plant Science
 projects: []
 date: 2012-09-30T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
