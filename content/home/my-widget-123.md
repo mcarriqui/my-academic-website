@@ -1,6 +1,6 @@
 ---
 widget: Hypericum
-widget_id: my-widget-123
+widget_id: Hypericum
 headless: true
 weight: 10
 active: true
