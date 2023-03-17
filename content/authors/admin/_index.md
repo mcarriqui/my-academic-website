@@ -1,6 +1,7 @@
 ---
 title: Marc Carriquí Alcover
 role: Juan de la Cierva Formación Postdoctoral Fellow
+avatar_filename: fk4smxiz_400x400.jpg
 bio: My research interests include ...
 interests:
   - plants
