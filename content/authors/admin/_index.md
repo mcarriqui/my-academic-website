@@ -1,5 +1,5 @@
 ---
-title: Marc Carriquí Alcover
+title: Marc Carriquí
 role: Juan de la Cierva Formación Postdoctoral Fellow
 avatar_filename: avatar.jpg
 bio: ""
