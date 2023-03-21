@@ -10,6 +10,6 @@ design:
   columns: "2"
   background:
     text_color_light: false
-    image_darken: 0
+    image_darken: 1
     image: 3_demografia_calaboquer.jpg
 ---
