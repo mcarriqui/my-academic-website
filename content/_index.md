@@ -12,6 +12,9 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+      items:
+       - title: About me
+         text: "Dr. Marc Carriquí is a fundamental researcher in plant ecophysiology, with a particular interest on the structure and function of plants from a perspective of biodiversity and evolution. His research is focused on 1) how CO2 diffuses inside photosynthetic organs; 2) how plants transport and use water; 3) which are the physiological thresholds for both CO2 and water movement inside plants under environmental stress."
     design:
       columns: '2'
       
