@@ -7,10 +7,10 @@ interests:
   - Plant Ecophysiology
 social:
   - icon: twitter
-    icon_pack: far
+    icon_pack: fab
     link: https://twitter.com/marcdesoller
     display:
-      header: true
+      header: false
     label: Twitter
 organizations:
   - name: INIA-CSIC
