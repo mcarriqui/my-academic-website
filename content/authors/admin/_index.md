@@ -6,9 +6,9 @@ bio: ""
 interests:
   - Plant Ecophysiology
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
+  - icon: twitter
+    icon_pack: ai
+    link: https://twitter.com/marcdesoller
 organizations: []
 education:
   courses:
