@@ -5,6 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Plant Ecophysiology
+  - Plant evolutionary physiology
+  - Photosynthesis
 social:
   - icon: twitter
     icon_pack: fab
