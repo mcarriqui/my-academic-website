@@ -11,7 +11,10 @@ social:
     link: /#contact
 organizations: []
 education:
-  courses: []
+  courses:
+    - course: PhD in Biology
+      institution: Universitat de les Illes Balears
+      year: 2019
 superuser: true
 last_name: Carriquí
 highlight_name: true
