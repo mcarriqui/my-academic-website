@@ -9,6 +9,8 @@ social:
   - icon: twitter
     icon_pack: ai
     link: https://twitter.com/marcdesoller
+    display:
+      header: true
 organizations: []
 education:
   courses:
