@@ -2,10 +2,7 @@
 title: Marc Carriquí Alcover
 role: Juan de la Cierva Formación Postdoctoral Fellow
 avatar_filename: avatar.jpg
-bio: His research is focused on (1) how CO2 diffuses inside photosynthetic
-  organs, (2) how plants transport and use water, and (3) which are the
-  physiological thresholds for both CO2 and water movement inside plants under
-  environmental stress.
+bio: ""
 interests: []
 social:
   - icon: envelope
