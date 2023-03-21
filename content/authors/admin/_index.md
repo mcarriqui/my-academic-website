@@ -3,7 +3,8 @@ title: Marc Carriquí
 role: Juan de la Cierva Formación Postdoctoral Fellow
 avatar_filename: avatar.jpg
 bio: ""
-interests: []
+interests:
+  - Plant Ecophysiology
 social:
   - icon: envelope
     icon_pack: fas
