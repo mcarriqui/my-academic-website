@@ -11,7 +11,8 @@ social:
     link: https://twitter.com/marcdesoller
     display:
       header: true
-organizations: []
+organizations:
+  - name: INIA-CSIC
 education:
   courses:
     - course: PhD in Biology
