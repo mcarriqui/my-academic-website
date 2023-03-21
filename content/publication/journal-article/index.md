@@ -52,7 +52,7 @@ tags:
   - Leafanatomy
   - Planthydraulics
   - Photosynthesis
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0168945212001069
+url_pdf: https://repositori.udl.cat/server/api/core/bitstreams/8301c7b9-f84f-49f8-8a14-54e6a82f1f0b/content
 
 doi: https://doi.org/10.1016/j.plantsci.2012.05.009
 publication: Plant Science
