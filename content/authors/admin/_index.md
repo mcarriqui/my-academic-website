@@ -1,7 +1,7 @@
 ---
 title: Marc Carriquí Alcover
 role: Juan de la Cierva Formación Postdoctoral Fellow
-avatar_filename: fk4smxiz_400x400.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include ...
 interests:
   - plants
@@ -16,7 +16,7 @@ superuser: true
 last_name: Carriquí
 highlight_name: true
 first_name: Marc
-email: "marc.carriqui@inia.csic.es"
+email: marc.carriqui@inia.csic.es
 ---
 Marc Carriquí Alcover is a...
 {style="text-align: justify;"}
