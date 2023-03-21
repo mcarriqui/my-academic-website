@@ -31,4 +31,4 @@ His research is focused on
 
 1. how CO2 diffuses inside photosynthetic organs
 2. how plants transport and use water 
-3. the physiological thresholds for both CO\[sub]2\[sub/] and water movement inside plants under environmental stress
+3. the physiological thresholds for both CO2 and water movement inside plants under environmental stress
